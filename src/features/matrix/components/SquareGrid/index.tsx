@@ -27,6 +27,7 @@ export const SquareGrid = ({
 
   return (
     <div
+      role="grid"
       className={styles.square__content}
       style={{
         gridTemplateColumns: `repeat(${matrixSize}, 1fr)`,
