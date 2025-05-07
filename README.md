@@ -7,7 +7,7 @@ Herramientas externas que se utilizaron:
 - Sass y clsx para manejar los estilos.
 
 
-Puedes acceder al link desplegado en: https://challenge-indra-rimac.vercel.app
+Puedes acceder al link desplegado en: https://challenge-delosi-matriz-f2bm.vercel.app/
 
 
 ## Explicación de la App
@@ -66,6 +66,11 @@ npm run dev
 
 4. Abril el navegador en [http://localhost:3000](http://localhost:3000)
 
+5. si quieren correr los test unitarios:
+
+```bash
+npm test
+```
 ## Contacto
 * Linkedin: [carlos yaco](https://www.linkedin.com/in/carlos-yaco-tincusi/)
 * website: [web](https://carlosyaco.com)
